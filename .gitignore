@@ -1,0 +1,4 @@
+# Ignore IntelliJ IDEA meta files
+.idea/
+# Ignore vagrant box meta files
+.vagrant/
